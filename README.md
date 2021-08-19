@@ -1,5 +1,5 @@
 # ReflowOven
-SMD Reflow Oven
+SMD Reflow Oven with LCD and encoder wheel interface
 
 ## Documentation
 Documentation can be found at https://wiki.joeblogs.co
